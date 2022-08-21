@@ -1,4 +1,4 @@
-# Quantizer-design(1)
+# Quantizer design(1)
 Design of a 15-bit Mid-Rise quantizer with a sampling frequency of 100 MHz.
 ![Design of a 15-bit Mid-Rise quantizer with a sampling frequency of 100 MHz](https://user-images.githubusercontent.com/72104345/164661403-d046b50b-86d9-4b8f-b754-3916871d532d.JPG)
 _____________________________________________________________________________________________________________________________________________________
